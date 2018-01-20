@@ -1,2 +1,2 @@
-# tasks-api
-Personal Project using Twillo API and Express/MongoDB
+# tasks-client
+Personal Project Website using Vanilla Javascript
